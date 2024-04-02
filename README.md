@@ -1,8 +1,6 @@
 # Ecommerce-Sales-Dashboard
 Analyzed an e-commerce sales dataset and created an interactive sales dashboard using Power BI.
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
 ## Problem Statement
 This dashboard helps the online ecommerce store to understand their customers better. It helps the them know if their customers are satisfied with their products and sales. Through look at the graphs, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know which product made highest sales where and when, thus since by using this dashboard they can indentify the stock required at different states.
 
