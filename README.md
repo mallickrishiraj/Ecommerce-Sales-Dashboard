@@ -8,7 +8,7 @@ This dashboard helps the online ecommerce store to understand their customers be
 
 ### Steps followed 
 
- 1 : Load data into Power BI Desktop, dataset is a xlsx file.
+ 1 : Load data into Power BI Desktop, dataset is a csv file.
  2 : Check all the coloumns and perform data cleaning if necessary.
  3 : Perform transform data to add/remove/merge column or for any other changes.
  4 : Close and apply the data to load the dataset.
